@@ -7,6 +7,8 @@ Curso la Maestria en Ciencia de Datos, de la cuál espero aprender y mejorar mis
 
 Uno de mis hobbies es cocinar, y espero poder aprender alta cocina en algún momento de mi vida. 
 
+Esto es un edicion de prueba.
+
 
 ![](https://media.giphy.com/media/XcFwb5afm0qG04z5Hz/giphy-downsized.gif)  
 [Fuente: GITFHY](https://media.giphy.com/media/XcFwb5afm0qG04z5Hz/giphy-downsized.gif)
