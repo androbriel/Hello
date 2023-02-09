@@ -13,6 +13,10 @@ Esto es un edicion de prueba.
 ![](https://media.giphy.com/media/XcFwb5afm0qG04z5Hz/giphy-downsized.gif)  
 [Fuente: GITFHY](https://media.giphy.com/media/XcFwb5afm0qG04z5Hz/giphy-downsized.gif)
 
+
+La sección de Referencias de este repositorio las encontrarás en [este link](https://github.com/androbriel/Hello/blob/main/Docs/Referencias.md).
+
+
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
 
